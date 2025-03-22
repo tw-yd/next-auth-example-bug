@@ -19,6 +19,7 @@
     "Thang Huu Vu <hi@thvu.dev>"
   ],
   "dependencies": {
+    "@auth/firebase-adapter": "^2.8.0",
     "@auth/unstorage-adapter": "^2.0.0",
     "@radix-ui/react-avatar": "^1.0.3",
     "@radix-ui/react-collapsible": "^1.0.3",
@@ -29,6 +30,7 @@
     "@vercel/kv": "^1.0.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
+    "firebase-admin": "^13.2.0",
     "lucide-react": "^0.274.0",
     "next": "latest",
     "next-auth": "beta",
